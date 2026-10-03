@@ -1,15 +1,9 @@
-# Feel AGI
+# Compatibility redirects
 
-Canonical public site: https://arshakaivazian.github.io/feel-agi/
+Canonical public portal: https://arshakaivazian.github.io/moloch-to-heaven/
 
-Telegram Stickers section: `telegram-stickers.html`. Collection pages remain `escape-velocity.html`, `clodyssey.html`, and `other-agents.html` at this repository’s root so existing deep links retain their page names and anchors.
+Publish future approved public updates to **ArshakAivazian/moloch-to-heaven**, `main`, repository root. Telegram Stickers is the `telegram-stickers.html` section; the three collection pages retain their filenames and anchors.
 
-## Future public updates
+This former repository keeps compatibility redirects for `index.html`, `telegram-stickers.html`, `escape-velocity.html`, `clodyssey.html`, and `other-agents.html`. Redirects preserve query parameters and fragments. Historical files and repository history remain available.
 
-Publish approved public files to **ArshakAivazian/feel-agi**, on `main`. GitHub Pages serves the repository root. `index.html` is the Feel AGI landing; `telegram-stickers.html` is the sticker hub. Collection HTML/JSON and WebP images live alongside them.
-
-`public-number-map.json` is append-only: never reuse or renumber an existing ID. Reserved IDs do not imply approval or an active public card. Keep original/variant choices independent and same-category pairs adjacent. Current active categories are EV 34 Main / 22 Extra and CL 23 Main / 31 Extra; Other Agents has 47 published stickers.
-
-Private review manifests, comments, choices not explicitly approved for display, generated trial assets, and credentials must not be uploaded. New Review/Unassigned candidates stay private until approved. Public descriptions and attribution must remain source-grounded.
-
-The former `telegram-stickers` and `slopcore-sticker-sources` repositories contain compatibility redirects. Maintain their existing page paths and anchors; do not publish future content updates there. Telegram pack descriptions and shortlinks are managed separately by the owner.
+Never upload private review manifests, comments, unapproved trial assets or credentials. The owner manages Telegram packs and shortlinks separately.
