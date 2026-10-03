@@ -8,7 +8,7 @@ Telegram Stickers section: `telegram-stickers.html`. Collection pages remain `es
 
 Publish approved public files to **ArshakAivazian/feel-agi**, on `main`. GitHub Pages serves the repository root. `index.html` is the Feel AGI landing; `telegram-stickers.html` is the sticker hub. Collection HTML/JSON and WebP images live alongside them.
 
-`public-number-map.json` is append-only: never reuse or renumber an existing ID. Reserved IDs do not imply approval or an active public card. Keep original/variant choices independent and same-category pairs adjacent. Current active categories are EV 30 Main / 26 Extra and CL 23 Main / 31 Extra; Other Agents has 47 published stickers.
+`public-number-map.json` is append-only: never reuse or renumber an existing ID. Reserved IDs do not imply approval or an active public card. Keep original/variant choices independent and same-category pairs adjacent. Current active categories are EV 34 Main / 22 Extra and CL 23 Main / 31 Extra; Other Agents has 47 published stickers.
 
 Private review manifests, comments, choices not explicitly approved for display, generated trial assets, and credentials must not be uploaded. New Review/Unassigned candidates stay private until approved. Public descriptions and attribution must remain source-grounded.
 
